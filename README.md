@@ -1,4 +1,7 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
+
+ <br/>
+ 
 # 💫 About Me:
 🌟 About Me<br>Hello there! 👋 I’m Akram Ali, a passionate Game Developer 🕹️ from India 🇮🇳. I specialize in creating immersive gaming experiences and crafting innovative solutions. 🚀<br><br>🔧 Skills & Expertise<br>Game Development: Unity 🎮, Unreal Engine 🖥️<br>Programming: C#, C++, Java ☕, Python 🐍<br>Web & Backend: HTML, CSS, JavaScript 💻, React.js ⚛️, Node.js 🌟, MongoDB 🍃<br>Cybersecurity & Cloud: Securing systems 🔒 and leveraging cloud solutions ☁️<br>Achievements: 3★ on CodeChef 🏆
 
